@@ -7,5 +7,5 @@ https://drive.google.com/drive/folders/1OyEw5VqpHVmjvPdQ80elBUd_WdE4FlbC?usp=sha
 Vídeo de apresentação:  
 https://drive.google.com/file/d/1tz79KxAWyQ4zj3IkgdiZ7nIJG6dqp_oF/view?usp=sharing
 
-Desenvolvimento de modelos de predição (Parte II do projeto)
+Desenvolvimento de modelos de predição (Parte II do projeto)  
 https://drive.google.com/file/d/1vI2Feh-X1phfApnz_QHq10oGsE27Ijua/view?usp=sharing
